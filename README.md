@@ -3,7 +3,7 @@
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chogh1)](https://solved.ac/chogh1/) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWHee)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWHee&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
