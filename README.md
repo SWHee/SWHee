@@ -3,8 +3,13 @@
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chogh1)](https://solved.ac/chogh1/) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWHee&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 사용한 언어 순위 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWHee&layout=compact&theme=algolia)
+
+
+<!-- 깃허브 스탯 카드 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWHee&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
