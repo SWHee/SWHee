@@ -54,12 +54,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWHee&layout=compact&theme=algolia" alt="Top Languages"/>
 </a>
 
----
-
-## 🔗 Activity & Profiles
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SWHee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chogh1)](https://solved.ac/chogh1/) -->
 
 </div>
 
