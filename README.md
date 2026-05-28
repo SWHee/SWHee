@@ -47,18 +47,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/SWHee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWHee&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/SWHee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWHee&layout=compact&theme=algolia" alt="Top Languages"/>
-</a>
-
-
 </div>
 
+<h3>🐍 Contribution Graph</h3>
+<img
+  src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/snake.svg?cache=1"
+  alt="Snake animation"
+/>
 
 
 
