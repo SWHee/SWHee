@@ -1,6 +1,6 @@
 <div align="center">
 
-# Geonhee
+# Geonhee Jo
 
 **Python Backend · LLM/RAG · Evaluation**
 
