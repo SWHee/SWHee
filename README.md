@@ -65,7 +65,9 @@
 실시간 채팅과 일정 관리에 문서 요약, OCR, STT 기능을 결합한 협업 플랫폼입니다.
 
 - Django Channels와 Redis를 이용한 그룹·1:1 WebSocket 채팅 구현
-- KoBART 문서 요약, KeyBERT 키워드 추출, OCR 및 STT 기능 실험
+- 이미지와 PDF를 지원하는 OCR 전처리 및 파일 처리 기능 구현
+- SpeechRecognition의 Google Web Speech API 연동을 이용한 한국어 STT 기능 구현
+- Django 웹 화면과 React Native 프로토타입의 UI 디자인 및 세부 요소 개선
 - Django 웹 애플리케이션과 React Native 모바일 프로토타입 구성
 
 
