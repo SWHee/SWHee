@@ -86,8 +86,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111827?style=flat&logo=huggingface&logoColor=FFD21E)
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat&logo=langchain&logoColor=FFFFFF)
-![Chroma](https://img.shields.io/badge/Chroma-111827?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat&logo=langchain&logoColor=FFFFFF)
 ![LangSmith](https://img.shields.io/badge/LangSmith-111827?style=flat)
+![Chroma](https://img.shields.io/badge/Chroma-111827?style=flat)
 
 **Computer Vision**
 
