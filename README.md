@@ -97,16 +97,25 @@
 
 ## Projects
 
-### [Korean Chatbot Lab](https://github.com/SWHee/korean-chatbot-lab)
+### [diffscope](https://github.com/SWHee/diffscope)
+
+학습 과정에서 떠올린 아이디어를 실제 도구로 구현하고, 직접 사용하며 개선해 가는 개인 오픈소스 프로젝트입니다.
+
+[![View Repository](https://img.shields.io/badge/View-Repository-111827?style=flat&logo=github&logoColor=white)](https://github.com/SWHee/diffscope)
+[![GitHub Stars](https://img.shields.io/github/stars/SWHee/diffscope?style=flat&logo=github&logoColor=white&label=Stars&labelColor=111827&color=C41E3A)](https://github.com/SWHee/diffscope/stargazers)
+
+
+### [Finbom](https://github.com/SWHee/finbom-agent)
 
 `Current Project`
 
-금융소비자보호법과 예금자보호법을 근거로 답변하는 한국어 RAG 챗봇입니다.
+한국 금융 법령과 금융감독원 공시를 조회해, 답변과 근거를 함께 보여주는 한국어 금융 상담 에이전트입니다.
 
-- Qwen3를 Ollama와 Hugging Face 기반의 교체 가능한 생성기로 구성
-- 법령 조문 청킹, KURE-v1 임베딩, Chroma 검색을 연결한 RAG 파이프라인 구현
-- FastAPI 일반·스트리밍 API와 Streamlit 채팅 화면 개발
-- LangSmith Dataset과 평가 흐름을 이용한 검색 및 답변 품질 검증
+- LangGraph 기반으로 질문 분석, 추가 조건 확인, 상담 범위 판별과 도구 호출 흐름 구성
+- 의미 검색과 BM25를 결합한 하이브리드 검색으로 관련 법령 조문 탐색
+- 금융감독원 Finlife API를 연동해 정기예금·적금 상품 조건 비교
+- FastAPI SSE 스트리밍과 Next.js 기반의 반응형 상담·근거 확인 UI 구현
+- LangSmith Dataset과 자동 평가 흐름을 이용해 검색 및 답변 품질 검증
 
 ### [ALF Knowledge Quality Gate](https://github.com/SWHee/channeltalk-codex-plugin)
 
