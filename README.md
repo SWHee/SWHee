@@ -97,14 +97,6 @@
 
 ## Projects
 
-### [diffscope](https://github.com/SWHee/diffscope)
-
-학습 과정에서 떠올린 아이디어를 실제 도구로 구현하고, 직접 사용하며 개선해 가는 개인 오픈소스 프로젝트입니다.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-111827?style=flat&logo=github&logoColor=white)](https://github.com/SWHee/diffscope)
-[![GitHub Stars](https://img.shields.io/github/stars/SWHee/diffscope?style=flat&logo=github&logoColor=white&label=Stars&labelColor=111827&color=C41E3A)](https://github.com/SWHee/diffscope/stargazers)
-
-
 ### [Finbom](https://github.com/SWHee/finbom-agent)
 
 `Current Project`
